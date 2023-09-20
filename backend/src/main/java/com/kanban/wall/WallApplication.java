@@ -9,5 +9,4 @@ public class WallApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(WallApplication.class, args);
 	}
-
 }
